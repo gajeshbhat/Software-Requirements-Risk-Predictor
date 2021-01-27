@@ -1,0 +1,7 @@
+spacy==2.3.5
+seaborn==0.11.1
+scikit-learn==0.23.2
+pandas==1.1.5
+numpy==1.18.5
+nltk==3.5
+en_core_web_lg==2.3.1
